@@ -7,6 +7,21 @@ epic - 8E00FC
 legendary - FC7A00
 key - FBFB31
 
+coins - FCBE4B
+common - F3FC79
+uncommon - 7EFC7E
+rare - 007EFC
+epic - 8E00FC
+legendary - FC7A00
+key - FBFB31
+unique - 1afca6
+mythic - FF0000
+
+
+
+
+
+
 to upscale any images from the pack, i recommend using ht tps://github.com/ewanhowell5195/ewanhowell5195.github.io/releases/tag/imageResizer without the space, it does whole folders at a time 
 and since most textures are 16x, i recommend using 10/1 scale meaning it upscales to 160x
 for spell icons, since they are 32x, 5/1 scale will mean 160x
