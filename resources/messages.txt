@@ -1,5 +1,5 @@
 ---------------------------------------------------
-Color Codes
+Color Codes by Poke
 
 coins - FCBE4B
 common - F3FC79
