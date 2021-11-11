@@ -1,0 +1,8 @@
+Poke — 10/26/2021
+coins - FCBE4B
+common - F3FC79
+uncommon - 7EFC7E
+rare - 007EFC
+epic - 8E00FC
+legendary - FC7A00
+key - FBFB31
