@@ -1,11 +1,5 @@
-Poke — 10/26/2021
-coins - FCBE4B
-common - F3FC79
-uncommon - 7EFC7E
-rare - 007EFC
-epic - 8E00FC
-legendary - FC7A00
-key - FBFB31
+---------------------------------------------------
+Color Codes
 
 coins - FCBE4B
 common - F3FC79
@@ -17,31 +11,19 @@ key - FBFB31
 unique - 1afca6
 mythic - FF0000
 
-
-
-basic is 0.8x, greater is 0.95x, supreme is 1.1x
-That'd be a laake question, but buy prices in general are 1.0 scaling.
-its 0.8/0.95/1.1x the base value
-which is the buy price in any general store
-
-NachtRaben — 11/07/2021
+---------------------------------------------------
 113 item(s) are COMMON quality
 119 item(s) are UNCOMMON quality
 164 item(s) are RARE quality
 61 item(s) are EPIC quality
 25 item(s) are LEGENDARY quality
 
+---------------------------------------------------
 
-NachtRaben — 11/08/2021
-apple    CONSUMABLE    5
-stone_chum    BAIT    25
-wheat    RESOURCE    5
-obsidian_ore    RESOURCE    475
-That'll be what my output generates
-internal name\tQuality\tBase Price
+items.tsv follows the following "internal name\tQuality\tBase Price"
 
-
-
+---------------------------------------------------
+How to upscale an image
 
 to upscale any images from the pack, i recommend using ht tps://github.com/ewanhowell5195/ewanhowell5195.github.io/releases/tag/imageResizer without the space, it does whole folders at a time 
 and since most textures are 16x, i recommend using 10/1 scale meaning it upscales to 160x
