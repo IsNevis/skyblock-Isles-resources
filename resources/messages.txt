@@ -19,6 +19,27 @@ mythic - FF0000
 
 
 
+basic is 0.8x, greater is 0.95x, supreme is 1.1x
+That'd be a laake question, but buy prices in general are 1.0 scaling.
+its 0.8/0.95/1.1x the base value
+which is the buy price in any general store
+
+NachtRaben — 11/07/2021
+113 item(s) are COMMON quality
+119 item(s) are UNCOMMON quality
+164 item(s) are RARE quality
+61 item(s) are EPIC quality
+25 item(s) are LEGENDARY quality
+
+
+NachtRaben — 11/08/2021
+apple    CONSUMABLE    5
+stone_chum    BAIT    25
+wheat    RESOURCE    5
+obsidian_ore    RESOURCE    475
+That'll be what my output generates
+internal name\tQuality\tBase Price
+
 
 
 
