@@ -22,12 +22,3 @@ mythic - FF0000
 
 items.tsv follows the following "internal name\tQuality\tBase Price"
 
----------------------------------------------------
-How to upscale an image
-
-to upscale any images from the pack, i recommend using ht tps://github.com/ewanhowell5195/ewanhowell5195.github.io/releases/tag/imageResizer without the space, it does whole folders at a time 
-and since most textures are 16x, i recommend using 10/1 scale meaning it upscales to 160x
-for spell icons, since they are 32x, 5/1 scale will mean 160x
-some item textures are 32x, but the actual design only takes up a corner of the image
-in those cases, you can either crop the image down to 17x17 then upscale 10/1 to 170x, or if you dont know how to crop images just lmk and ill do it for u
-but ht tps://www.getpaint.net/download.html without the space is free and will let you crop any of those few item textures down to 17x to get rid of the empty space before upscaling
